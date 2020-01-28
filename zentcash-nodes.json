@@ -1,6 +1,13 @@
 {
   "nodes": [
     {
+      "name": "Fast Pool",
+      "url": "fastpool.xyz",
+      "port": 21698,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "SeedPRO1",
       "url": "seedpro1.zent.cash",
       "port": 21698,
@@ -31,13 +38,6 @@
     {
       "name": "SuperBlockchain Pool",
       "url": "superblockchain.con-ip.com",
-      "port": 21698,
-      "ssl": false,
-      "cache": false
-    },
-   {
-      "name": "Fast Pool",
-      "url": "fastpool.xyz",
       "port": 21698,
       "ssl": false,
       "cache": false
