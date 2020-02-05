@@ -2,7 +2,7 @@
   "nodes": [
     {
       "name": "Ecological ZTC Node ARMv7 (By SuperBlockchain Pool)",
-      "url": "ecologicalztc.con-ip.com/",
+      "url": "ecologicalztc.con-ip.com",
       "port": 22698,
       "ssl": false,
       "cache": false
