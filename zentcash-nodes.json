@@ -43,6 +43,13 @@
       "cache": true
     },
     {
+      "name": "SeedPRO4",
+      "url": "seedpro4.zent.cash",
+      "port": 21698,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "SeedPRO5",
       "url": "seedpro5.zent.cash",
       "port": 21698,
