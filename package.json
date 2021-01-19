@@ -26,7 +26,7 @@
   "homepage": "https://github.com/ZentCashFoundation/zentcash-nodes-json#readme",
   "devDependencies": {
     "colors": "^1.4.0",
-    "mocha": "^6.2.2",
+    "mocha": "^8.2.1",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.8"
   }
