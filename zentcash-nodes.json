@@ -1,20 +1,6 @@
 {
   "nodes": [
     {
-      "name": "Ecological ZTC Node ARMv7 (By SuperBlockchain Pool)",
-      "url": "ecologicalztc.con-ip.com",
-      "port": 22698,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Fast Pool",
-      "url": "fastpool.xyz",
-      "port": 21698,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "SeedPRO1",
       "url": "seedpro1.zent.cash",
       "port": 21698,
@@ -34,13 +20,6 @@
       "port": 443,
       "ssl": true,
       "cache": false
-    },
-    {
-      "name": "SeedPRO3 Blockchain Cache - SSL",
-      "url": "seedpro3.zent.cash",
-      "port": 443,
-      "ssl": true,
-      "cache": true
     },
     {
       "name": "SeedPRO4",
