@@ -2,35 +2,21 @@
   "nodes": [
     {
       "name": "SeedPRO1",
-      "url": "seedpro1.zent.cash",
+      "url": "95.216.169.11",
       "port": 21698,
       "ssl": false,
       "cache": false
     },
     {
       "name": "SeedPRO2",
-      "url": "seedpro2.zent.cash",
+      "url": "95.216.191.56",
       "port": 21698,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "SeedPRO2 - SSL",
-      "url": "seedpro2.zent.cash",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "SeedPRO4",
-      "url": "seedpro4.zent.cash",
-      "port": 21698,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "SeedPRO5",
-      "url": "seedpro5.zent.cash",
+      "name": "SeedPRO3",
+      "url": "78.47.228.221",
       "port": 21698,
       "ssl": false,
       "cache": false
