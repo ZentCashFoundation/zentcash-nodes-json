@@ -1,0 +1,40 @@
+{
+  "nodes":[
+         {
+          "name": "SuperBlockchain Pool",
+          "url": "superblockchain.con-ip.com",
+          "port": 21698,
+          "ssl": false,
+          "cache":false,
+          "fee":0,
+          "availability":100,
+          "online": true,
+          "version":"1.28.3",
+          "timestamp":1626819513
+        },
+        {
+          "name": "SeedPRO1",
+          "url": "138.124.183.11",
+          "port": 21698,
+          "ssl": false,
+          "cache":false,
+          "fee":100,
+          "availability":100,
+          "online":true,
+          "version":"1.28.3",
+          "timestamp":1626819513
+        },
+        {
+          "name": "SeedPRO2",
+          "url": "185.74.222.212",
+          "port": 21698,
+          "ssl": false,
+          "cache":false,
+          "fee":100,
+          "availability":100,
+          "online":true,
+          "version":"1.28.3",
+          "timestamp":1626819513
+        }
+  ]
+}
