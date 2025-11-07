@@ -23,10 +23,11 @@
     },
     {
       "name": "SuperBlockchain Pool",
-      "url": "superblockchain.con-ip.com",
+      "url": "superblockchain.zapto.org",
       "port": 21698,
       "ssl": false,
       "cache": false
     }
   ]
 }
+
