@@ -9,12 +9,13 @@
     },
     {
       "name": "SeedPRO2",
-      "url": "138.124.183.11,
+      "url": "138.124.183.11",
       "port": 21698,
       "ssl": false,
       "cache": false
     }
   ]
 }
+
 
 
