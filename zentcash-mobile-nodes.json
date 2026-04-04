@@ -2,7 +2,7 @@
   "nodes":[
         {
           "name": "SeedPRO1",
-          "url": "185.74.222.212",
+          "url": "146.103.41.135",
           "port": 21698,
           "ssl": false,
           "cache":false,
@@ -14,8 +14,8 @@
         },
         {
           "name": "SeedPRO2",
-          "url": "138.124.183.11",
-          "port": 21698,
+          "url": "superblockchain.zapto.org",
+          "port": 19022,
           "ssl": false,
           "cache":false,
           "fee":100,
